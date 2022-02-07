@@ -1,0 +1,13 @@
+Go?
+1. Ease of Concurrency
+2. Implicit implementation of interfaces
+3. Standard library
+4. Simplicity
+5. Easy to write unit test cases.
+6. Compiling to native code
+7. Performance compared to C
+8. Support for higher order functions
+9. Builtin Garbage collection
+
+higher order functions
+ 
